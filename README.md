@@ -9,7 +9,7 @@ Between December and June:
 - 2 degree maximum temperature difference
 
 ## Summary
-There is a small average temperature difference between December and June (these two months/points are used to model year-round temperatures). Given that data alone, it does not appear that the temperature trends will impact sustainability of the business year round. This is the same story for the maximum temperature difference of 2 degrees. The minimum temperature difference of 8 degrees may impact sales in the evenings/nights (54 degree min in Decemember is probably too cold for ice cream). 
+There is a small average temperature difference between December and June (these two months/points are used to model year-round temperatures). Given that data alone, it does not appear that the temperature trends will impact sustainability of the business year round. This is the same story for the maximum temperature difference of 2 degrees. The minimum temperature difference of 8 degrees may impact sales in the evenings/nights (54 degree min in December is probably too cold for ice cream). 
 
 ## More Data Collection
 If we wanted to assess this further it would be interesting to pull metrics on other weather conditions (rain, clouds, etc), pull tourism data for the year, and to compare to similar stores in locations with similar temperature/weather metrics. 
